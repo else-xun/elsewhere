@@ -1,0 +1,538 @@
+
+a {
+  background-color: thistle;
+  color: thistle;
+}
+
+abbr {
+  background-color: coral;
+  color: coral;
+}
+
+address {
+  background-color: teal;
+  color: teal;
+}
+
+area {
+  None.
+}
+
+article {
+  background-color: springgreen;
+  color: springgreen;
+}
+
+aside {
+  background-color: turquoise;
+  color: turquoise;
+}
+
+audio	{
+  background-color: khaki;
+  color: khaki;
+}
+
+b	{
+  background-color: skyblue;
+  color: skyblue;
+}
+
+base	{
+  None.
+}
+
+bdi	{
+  background-color: darkviolet;
+  color: darkviolet;
+}
+
+bdo	{
+  background-color: mediumblue;
+  color: mediumblue;
+}
+
+blockquote	{
+  background-color: seagreen;
+  color: seagreen;
+}
+
+body {
+  background-color: lightgrey;
+  color: lightgrey;
+}
+
+}
+
+br	{
+  None.
+}
+
+button	{
+  background-color: green;
+  color: green;
+}
+
+canvas	{
+  background-color: ivory;
+  color: ivory;
+}
+
+caption	{
+  background-color: olive;
+  color: olive;
+}
+
+cite	{
+  background-color: rosybrown;
+  color: rosybrown;
+}
+
+code	{
+  background-color: salmon;
+  color: salmon;
+}
+
+col	{
+  background-color: mediumseagreen;
+  color: mediumseagreen;
+}
+
+colgroup	{
+  background-color: mediumseagreen;
+  color: mediumseagreen;
+}
+
+data {
+  background-color: mediumvioletred;
+  color: mediumvioletred;
+}
+
+datalist	{
+  None.
+}
+
+dd	{
+  background-color: goldenrod;
+  color: goldenrod;
+}
+
+del	{
+  background-color: black;
+  color: black;
+}
+
+details	{
+  background-color: midnightblue;
+  color: midnightblue;
+}
+
+dfn	{
+  background-color: mediumaquamarine;
+  color: mediumaquamarine;
+}
+
+dialog	{
+  background-color: greenyellow;
+  color: greenyellow;
+}
+
+div {
+  background-color: gainsboro;
+  color: gainsboro;
+}
+
+dl	{
+  background-color: goldenrod;
+  color: goldenrod;
+}
+
+dt	{
+  background-color: goldenrod;
+  color: goldenrod;
+}
+
+em	{
+  background-color: lightgoldenrodyellow;
+  color: lightgoldenrodyellow;
+}
+
+embed	{
+  background-color: saddlebrown;
+  color: saddlebrown;
+}
+
+fieldset	{
+  background-color: pink;
+  color: pink;
+}
+
+figcaption	{
+  background-color: lightblue;
+  color: lightblue;
+}
+
+figure	{
+  background-color: lavender;
+  color: lavender;
+}
+
+footer	{
+  background-color: darkblue;
+  color: darkblue;
+}
+
+form	{
+  background-color: darkseagreen;
+  color: darkseagreen;
+}
+
+h1	{
+  background-color: azure;
+  color: azure;
+}
+
+h2	{
+  background-color: azure;
+  color: azure;
+}
+
+h3	{
+  background-color: azure;
+  color: azure;
+}
+
+h4	{
+  background-color: azure;
+  color: azure;
+}
+
+h5	{
+  background-color: azure;
+  color: azure;
+}
+
+h6	{
+  background-color: azure;
+  color: azure;
+}
+
+head	{
+  None.
+}
+
+header	{
+  background-color: snow;
+  color: snow;
+}
+
+hr	{
+  background-color: darkgoldenrod;
+  color: darkgoldenrod;
+}
+
+html	{
+  None.
+}
+
+i	{
+  background-color: aliceblue;
+  color: aliceblue;
+}
+
+iframe	{
+  background-color: aquamarine;
+  color: aquamarine;
+}
+
+img	{
+  background-color: powderblue;
+  color: powderblue;
+}
+
+input	{
+  background-color: silver;
+  color: silver;
+}
+
+ins	{
+  background-color: lightseagreen;
+  color: lightseagreen;
+}
+
+kbd	{
+  background-color: honeydew;
+  color: honeydew;
+}
+
+label	{
+  background-color: mintcream;
+  color: mintcream;
+}
+
+legend	{
+  background-color: lawngreen;
+  color: lawngreen;
+}
+
+li	{
+  background-color: teal;
+  color: teal;
+}
+
+link	{
+  None.
+}
+
+main	{
+  background-color: maroon;
+  color: maroon;
+}
+
+map	{
+  None.
+}
+
+mark	{
+  background-color: yellow;
+  color: yellow;
+}
+
+menu	{
+  None.
+}
+
+meta	{
+  None.
+}
+
+meter	{
+  background-color: yellowgreen;
+  color: yellowgreen;
+}
+
+nav	{
+  background-color: paleturquoise;
+  color: paleturquoise;
+}
+
+noscript	{
+  background-color: lime;
+  color: lime;
+}
+
+object:focus	{
+  background-color: beige;
+  color: beige;
+}
+
+ol	{
+  background-color: darkmagenta;
+  color: darkmagenta;
+}
+
+optgroup	{
+  None.
+}
+
+option	{
+  None.
+}
+
+output	{
+  background-color: lightcoral;
+  color: lightcoral;
+}
+
+p	{
+  background-color: lightsteelblue;
+  color: lightsteelblue;
+}
+
+param	{
+  None.
+}
+
+picture	{
+  background-color: orange;
+  color: orange;
+}
+
+pre	{
+  background-color: royalblue;
+  color: royalblue;
+}
+
+progress	{
+  background-color: dimgrey;
+  color: dimgrey;
+}
+
+q	{
+  background-color: purple;
+  color: purple;
+}
+
+rp	{
+  background-color: mistyrose;
+  color: mistyrose;
+}
+
+rt	{
+  background-color: mistyrose;
+  color: mistyrose;
+}
+
+ruby	{
+  background-color: indigo;
+  color: indigo;
+}
+
+s	{
+  background-color: firebrick;
+  color: firebrick;
+}
+
+samp	{
+  background-color: darkturquoise;
+  color: darkturquoise;
+}
+
+script	{
+  None.
+}
+
+section	{
+  background-color: floralwhite;
+  color: floralwhite;
+}
+
+select	{
+  background-color: ghostwhite;
+  color: ghostwhite;
+}
+
+small	{
+  background-color: whitesmoke;
+  color: whitesmoke;
+}
+
+source	{
+  background-color: lightcyan;
+  color: lightcyan;
+}
+
+span	{
+  background-color: cadetblue;
+  color: cadetblue;
+}
+
+strong	{
+  background-color: steelblue;
+  color: steelblue;
+}
+
+style	{
+  None.
+}
+
+sub	{
+  background-color: chartreuse;
+  color: chartreuse;
+}
+
+summary	{
+  background-color: lemonchiffon;
+  color: lemonchiffon;
+}
+
+sup {
+  background-color: gold;
+  color: gold;
+}
+
+svg {
+  background-color: white;
+  color: white;
+}
+
+table	{
+  background-color: olivedrab;
+  color: olivedrab;
+}
+
+tbody	{
+  background-color: olivedrab;
+  color: olivedrab;
+}
+
+td	{
+  background-color: olivedrab;
+  color: olivedrab;
+}
+
+template	{
+  None.
+}
+
+textarea	{
+  background-color: darksalmon;
+  color: darksalmon;
+}
+
+tfoot	{
+  background-color: olivedrab;
+  color: olivedrab;
+}
+
+th	{
+  background-color: olivedrab;
+  color: olivedrab;
+}
+
+thead	{
+  background-color: olivedrab;
+  color: olivedrab;
+}
+
+time	{
+  background-color: cornsilk;
+  color: cornsilk;
+}
+
+title	{
+  None.
+}
+
+tr	{
+  background-color: olivedrab;
+  color: olivedrab;
+}
+
+track	{
+  None.
+}
+
+u	{
+  background-color: blue;
+  color: blue;
+}
+
+ul	{
+  background-color: lavenderblush;
+  color: lavenderblush;
+}
+
+var	{
+  background-color: darkred;
+  color: darkred;
+}
+
+video	{
+  background-color: palegreen;
+  color: palegreen;
+}
+
+wbr	{
+  None.
+}
