@@ -62,8 +62,6 @@ body {
   color: lightgrey;
 }
 
-}
-
 br	{
   None.
 }
@@ -74,13 +72,13 @@ button	{
 }
 
 canvas	{
-  background-color: ivory;
-  color: ivory;
+  background-color: grey;
+  color: grey;
 }
 
 caption	{
-  background-color: olive;
-  color: olive;
+  background-color: lightgreen;
+  color: lightgreen;
 }
 
 cite	{
@@ -178,8 +176,8 @@ figure	{
 }
 
 footer	{
-  background-color: darkblue;
-  color: darkblue;
+  background-color: lightyellow;
+  color: lightyellow;
 }
 
 form	{
@@ -261,8 +259,8 @@ ins	{
 }
 
 kbd	{
-  background-color: honeydew;
-  color: honeydew;
+  background-color: darkblue;
+  color: darkblue;
 }
 
 label	{
@@ -271,13 +269,13 @@ label	{
 }
 
 legend	{
-  background-color: lawngreen;
-  color: lawngreen;
+  background-color: olivedrab;
+  color: olivedrab;
 }
 
 li	{
-  background-color: teal;
-  color: teal;
+  background-color: ghostwhite;
+  color: ghostwhite;
 }
 
 link	{
@@ -285,8 +283,8 @@ link	{
 }
 
 main	{
-  background-color: maroon;
-  color: maroon;
+  background-color: white;
+  color: white;
 }
 
 map	{
@@ -321,7 +319,7 @@ noscript	{
   color: lime;
 }
 
-object:focus	{
+object	{
   background-color: beige;
   color: beige;
 }
@@ -408,8 +406,8 @@ section	{
 }
 
 select	{
-  background-color: ghostwhite;
-  color: ghostwhite;
+  background-color: cornflowerblue;
+  color: cornflowerblue;
 }
 
 small	{
@@ -442,8 +440,8 @@ sub	{
 }
 
 summary	{
-  background-color: lemonchiffon;
-  color: lemonchiffon;
+  background-color: cyan;
+  color: cyan;
 }
 
 sup {
@@ -452,23 +450,23 @@ sup {
 }
 
 svg {
-  background-color: white;
-  color: white;
+  background-color: darkgrey;
+  color: darkgrey;
 }
 
 table	{
-  background-color: olivedrab;
-  color: olivedrab;
+  background-color: seashell;
+  color: seashell;
 }
 
 tbody	{
-  background-color: olivedrab;
-  color: olivedrab;
+  background-color: seashell;
+  color: seashell;
 }
 
 td	{
-  background-color: olivedrab;
-  color: olivedrab;
+  background-color: seashell;
+  color: seashell;
 }
 
 template	{
@@ -481,23 +479,23 @@ textarea	{
 }
 
 tfoot	{
-  background-color: olivedrab;
-  color: olivedrab;
+  background-color: seashell;
+  color: seashell;
 }
 
 th	{
-  background-color: olivedrab;
-  color: olivedrab;
+  background-color: seashell;
+  color: seashell;
 }
 
 thead	{
-  background-color: olivedrab;
-  color: olivedrab;
+  background-color: seashell;
+  color: seashell;
 }
 
 time	{
-  background-color: cornsilk;
-  color: cornsilk;
+  background-color: palevioletred;
+  color: palevioletred;
 }
 
 title	{
@@ -505,8 +503,8 @@ title	{
 }
 
 tr	{
-  background-color: olivedrab;
-  color: olivedrab;
+  background-color: seashell;
+  color: seashell;
 }
 
 track	{
