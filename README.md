@@ -5,9 +5,10 @@
 
 ### 2. enable the file in browser
 
+
 <img width="800" alt="Screenshot 2023-07-26 at 15 55 51" src="https://github.com/else-xun/elsewhere/assets/136189727/d016a5ce-faec-4f11-a57e-6eb6ccfa2a76">
 
-go to _Safari_ - _Preferences..._
+go to _Safari_ -> _Preferences..._
 
 <img width="800" alt="Screenshot 2023-07-26 at 15 51 53" src="https://github.com/else-xun/elsewhere/assets/136189727/996905d1-1bcc-4550-a11e-d15e4fb52ee6">
 
