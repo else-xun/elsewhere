@@ -1,5 +1,7 @@
 # Direction of Use
 
+You May Confidently Serve Me Snow (2023) can be enabled on any browser that supports custom stylesheets. Take Safari for example:
+
 ### 1. download the file
 <img width="800" alt="Screenshot 2023-07-26 at 15 51 27" src="https://github.com/else-xun/elsewhere/assets/136189727/5849b318-cfb5-452b-ae5d-b92c82cff0cd">
 
